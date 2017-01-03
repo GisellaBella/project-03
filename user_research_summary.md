@@ -4,7 +4,7 @@ I structured my interview questions to explore the interviewee's familiarity wit
 their usage habits, how, where and when they consume this content and any insights I could glean based on their responses.
 
 I asked a variation on the following questions.
-    1. Do you listen to podcasts?
+⋅⋅1.  Do you listen to podcasts?
     2. Why or why not?
     3. Have you in the past?
     4. Why did you stop?
